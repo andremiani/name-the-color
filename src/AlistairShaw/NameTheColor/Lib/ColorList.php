@@ -37,14 +37,14 @@ class ColorList {
     public static function getAll()
     {
         return [
-            ["000000", "Black"],
-            ["000080", "Navy Blue"],
-            ["0000C8", "Dark Blue"],
-            ["0000FF", "Blue"],
-            ["000741", "Stratos"],
-            ["001B1C", "Swamp"],
-            ["002387", "Resolution Blue"],
-            ["002900", "Deep Fir"],
+            ["000000", "Preto"],
+            ["000080", "Azul Marinho"],
+            ["0000C8", "Azul Escuro"],
+            ["0000FF", "Azul"],
+            ["000741", "Azul Escuro"],
+            ["001B1C", "Verde Musgo"],
+            ["002387", "Azul Marinho"],
+            ["002900", "Verde"],
             ["002E20", "Burnham"],
             ["002FA7", "International Klein Blue"],
             ["003153", "Prussian Blue"],
